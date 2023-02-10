@@ -146,3 +146,9 @@ cython_debug/
 # vscode
 .vscode/
 .vscode/**
+
+
+setup.sh
+runme.sh
+map.yaml_
+0to100-*/
