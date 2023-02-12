@@ -12,5 +12,5 @@
 1. <https://github.com/obar1> :o: [`here`](./https:§§github.com§obar1/readme.md)
 1. <.vscode> :o: [`here`](./.vscode/readme.md)
 1. <https://youtu.be/XKHEtdqhLK8?t=4629> :o: [`here`](./https:§§youtu.be§XKHEtdqhLK8?t=4629/readme.md)
-1. <https://neetcode.io/courses/lessons/python-for-coding-interviews> :o: [`here`](./https:§§neetcode.io§courses§lessons§python-for-coding-interviews/readme.md)
+1. <https://youtu.be/XKHEtdqhLK8?t=19774> :o: [`here`](./https:§§youtu.be§XKHEtdqhLK8?t=19774/readme.md)
         
