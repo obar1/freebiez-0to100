@@ -5,7 +5,7 @@
 
 ## init
 
-```py
+```bash
 touch tmp.py
 python -m venv .venv
 echo '.venv/' >> .gitignore
