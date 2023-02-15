@@ -1,7 +1,7 @@
+# <https§§§learn.octallium.com§courses§modern-python-101-thinking-in-types>
+> <https://learn.octallium.com/courses/modern-python-101-thinking-in-types>
 
-# <https:§§learn.octallium.com§courses§modern-python-101-thinking-in-types§lectures>
-> <https://learn.octallium.com/courses/modern-python-101-thinking-in-types/lectures>
-        
+ 
 ## init
 
 ```bash
