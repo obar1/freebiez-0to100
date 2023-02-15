@@ -1,0 +1,27 @@
+
+@startmindmap
+
+title LINKS
+
+skinparam shadowing false
+skinparam backgroundColor #EEEBDC
+skinparam ArrowColor black
+skinparam noteBorderColor black
+
++ 0
+++_ [[ .git ]]
+++_ [[ .mypy_cache ]]
+++_ [[ .vscode ]]
+++_ [[ 0to100-latest ]]
+++_ [[ https///learn.octallium.com/courses/modern-python-101-thinking-in-types ]]
+++_ [[ https///neetcode.io/courses/lessons/python-for-coding-interviews ]]
+++_ [[ https///youtu.be/XKHEtdqhLK8/t=1 ]]
++++_ [[ https///youtu.be/XKHEtdqhLK8/t=12950 ]]
++++_ [[ https///youtu.be/XKHEtdqhLK8/t=16067 ]]
++++_ [[ https///youtu.be/XKHEtdqhLK8/t=19774 ]]
+++_ [[ https///youtu.be/XKHEtdqhLK8/t=4269 ]]
+++_ [[ https///youtu.be/XKHEtdqhLK8/t=7507 ]]
+++_ [[ https///youtu.be/XKHEtdqhLK8/t=9821 ]]
+
+@endmindmap
+        

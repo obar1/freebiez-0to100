@@ -1,6 +1,7 @@
 
-# <https:§§youtu.be§XKHEtdqhLK8?t=12950>
+# <https§§§youtu.be§XKHEtdqhLK8§t=12950>
 > <https://youtu.be/XKHEtdqhLK8?t=12950>
+
 
 ## oop
 
